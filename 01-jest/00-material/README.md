@@ -1,4 +1,24 @@
-# Testing
+# Jest
+
+<details>
+<summary>Index</summaary>
+
+## Index
+* Introduction
+
+</details>
+
+---
+
+<details>
+<summary>Introduction</summary>
+
+## Introduction
+
+
+</details>
+
+--------------------------------------------------
 
 <details>
 <summary>Index</summary>
@@ -19,11 +39,12 @@
 <summary>Introduction</summary>
 
 ## Introduction
-* Software testing is the process of finding errors in a software product before it is launched.
+- Software testing is the process of identifying bugs in a software product.
+- It helps find and fix issues before the product is launched.
 
 ### Types of Testing 
 1. Manual Testing
-2. Automatic Testing
+1. Automatic Testing
 
 ### Testing by Developers
 1. Unit Testing : Testing individual units or components.
